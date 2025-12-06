@@ -48,8 +48,8 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/ВАШ_НИКНЕЙМ/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git
-cd НАЗВАНИЕ_РЕПОЗИТОРИЯ
+git clone https://github.com//antondanv/AI-Web-Research-Agent.git
+cd AI-Web-Research-Agent
 ```
 ### (Опционально) Создайте виртуальное окружение
 ```bash
