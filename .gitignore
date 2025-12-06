@@ -1,0 +1,15 @@
+# IDE settings
+.idea/
+.gigaide/
+*.iml
+*.properties
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+env/
+venv/
